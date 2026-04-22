@@ -1,6 +1,3 @@
-Here is your **complete, copy-paste-ready README** with clean formatting and no placeholders:
-
-```markdown
 # The Self-Pruning Neural Network  
 Tredence Analytics — AI Engineering Internship Case Study (2025 Cohort)
 
